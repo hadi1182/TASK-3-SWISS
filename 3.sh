@@ -6,7 +6,7 @@ sleep 4
 
 sudo apt-get update && sudo apt-get upgrade -y
 clear
-
+81e2a7aaf17d8d05a3ffb9b48fc045730215182b32c6f3e42c0a3634cde59ea8
 echo "Installing dependencies..."
 npm install --save-dev hardhat
 npm install dotenv
